@@ -1,4 +1,4 @@
-<h1 align="center">Professional README Generator</h1>
+<h1 align="center"> Professional README Generator </h1>
         
  ## License
 
@@ -14,13 +14,13 @@
 - [Email](#Email)
 - [Github](#Github)
 
-## <h2 id="description">Description</h2>
+## Description
 Professional README Generator,  helps users generate a README without worrying about additional mark down syntax.
 README is really important when it comes to being a part of any coding job and it is overlooked by many developers.
 My project will allow the user to answer a series of specific questions and create a professional complete README based on their responses. This will help make it look professional and correct without the end user knowing what is under the hood. 
 
 
-## <h2 id="usage"> Usage </h2>
+## Usage 
 Click here to view video demonstration --> [Professional README Generator](https://drive.google.com/file/d/1TmM82sxv8Lx4D0sMvx9_O2VCtTFEc_h8/view?usp=sharing)
 1. Run the following code: ‘node index.js’ or npm start in the terminal. 
 2. Answer the questions and after completion, you should see a console log showing your answers to your prompts. 
@@ -28,7 +28,7 @@ Click here to view video demonstration --> [Professional README Generator](https
 4. Also generatedMarkdown folder in mark down syntax so you can copy and paste that code into your project to make you own.
 
 
-## <h2 id="Contribution">Contribution</h2>
+## Contribution
 👨‍💻 We are Coding BootCamp Alumni of [UCF](https://www.ucf.edu/students/) 
 
 ## Installation
@@ -39,14 +39,14 @@ Click here to view video demonstration --> [Professional README Generator](https
 ![Photo2](./images/Node%20ReadMe%20Generator2.png)
 
 
-## <h2 id="Tests">Tests</h2>
+## Tests
 Yes, to test this app, open up the file in VS Code. Open the terminal, change directory into the root folder ‘Professional README Generator’, and run ‘node index.js’. Answer the prompts and view the preview of the ‘generated-README.md’ file in the ‘generateMarkDown’ folder.
 
-## <h2 id="Questions">Questions</h2> 
+## Questions
 
 Please contact me using the following links:
 
-## <h2 id="Email">Email</h2>
+## Email
 [Email: ginuwine104@gmail.com](ginuwine104@gmail.com)
 
 ## Github
