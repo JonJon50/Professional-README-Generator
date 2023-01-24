@@ -22,7 +22,7 @@ var questions =
    },
    {
     type: "input",
-    message: "What is your installation usage?",
+    message: "How did you install it?",
     name: "installation",
    },
    {

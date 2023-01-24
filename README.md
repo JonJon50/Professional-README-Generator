@@ -1,8 +1,6 @@
-# fd
+# Professional README Generator
         
-  
-        
-## License
+  ## License
 ![alt](https://img.shields.io/badge/License-MIT-blue)
           
 ## Table of Content
@@ -15,29 +13,66 @@
 - [Email](#Email)
 - [Github](#Github)
 
-## [Description] (#table-of-contents)
-dd
+## Description
+Professional README Generator,  helps users generate a README without worrying about additional mark down syntax.
+README is really important when it comes to being a part of any coding job and it is overlooked by many developers.
+My project will allow the user to answer a series of specific questions and create a professional complete README based on their responses. This will help make it look professional and correct without the end user knowing what is under the hood. 
+
 
 ## Usage
-dd
+[Professional README Generator](https://drive.google.com/file/d/1TmM82sxv8Lx4D0sMvx9_O2VCtTFEc_h8/view?usp=sharing)
+1. Run the following code: ‘node index.js’ or npm start in the terminal. 
+2. Answer the questions and after completion, you should see a console log showing your answers to your prompts. 
+3. You will see your file in the fill called ‘README’. 
+4. Also generatedMarkdown folder in mark down syntax so you can copy and paste that code into your project to make you own.
+
 
 ## Contribution
-undefined
+👨‍💻 We are Coding BootCamp Alumni of [UCF](https://www.ucf.edu/students/) 
 
 ## Installation
-dd
+
+![Photo1]()
+![Photo2]()
+![Photo3]()
+![Photo4]()
 
 ## Tests
-dd
+Yes, to test this app, open up the file in VS Code. Open the terminal, change directory into the root folder ‘Professional README Generator’, and run ‘node index.js’. Answer the prompts and view the preview of the ‘generated-README.md’ file in the ‘generateMarkDown’ folder.
 
 ## Questions 
-dd
 
 Please contact me using the following links:
 
 ## Email
-dd
+[Email: ginnsd@gmail.com](mailto:ginnsd@gmail.com)
 
 ## Github
-dd
-[GitHub](https://github.com/undefined)    
+[GitHub](https://github.com/jonjon50) 
+
+
+
+<h2 id="license">MIT License</h2>
+The MIT License (MIT)
+
+Copyright (c) <year> Adam Veldhousen
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+@Levi0100
+</h5>
