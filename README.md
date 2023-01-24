@@ -45,7 +45,7 @@ Yes, to test this app, open up the file in VS Code. Open the terminal, change di
 Please contact me using the following links:
 
 ## Email
-[Email: ginnsd@gmail.com](mailto:ginnsd@gmail.com)
+[Email: ginuwine104@gmail.com](ginuwine104@gmail.com)
 
 ## Github
 [GitHub](https://github.com/jonjon50) 
