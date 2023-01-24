@@ -5,22 +5,23 @@
 ![alt](https://img.shields.io/badge/License-MIT-blue)
           
 ## Table of Content
-- [Project Description](#h2-iddescriptiondescriptionh2)
-- [Usage](#Usage)
-- [Contribution](#Contribution)
-- [Installation](#Installation)
-- [Tests](#Tests)
-- [Questions](#Questions)
-- [Email](#Email)
-- [Github](#Github)
+- [Description](#description)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [Installation](#installation)
+- [Tests](#tests)
+- [Questions](#questions)
+- [Email](#email)
+- [Github](#github)
+- [License](#license) 
 
-## <h2 id="description">Description</h2>
+## Description
 Professional README Generator,  helps users generate a README without worrying about additional mark down syntax.
 README is really important when it comes to being a part of any coding job and it is overlooked by many developers.
 My project will allow the user to answer a series of specific questions and create a professional complete README based on their responses. This will help make it look professional and correct without the end user knowing what is under the hood. 
 
 
-## <h2 id="usage"> Usage </h2>
+## Usage
 Click here to view video demonstration --> [Professional README Generator](https://drive.google.com/file/d/1TmM82sxv8Lx4D0sMvx9_O2VCtTFEc_h8/view?usp=sharing)
 1. Run the following code: ‘node index.js’ or npm start in the terminal. 
 2. Answer the questions and after completion, you should see a console log showing your answers to your prompts. 
@@ -54,7 +55,7 @@ Please contact me using the following links:
 
 
 
-<h2 id="License">MIT License</h2>
+<h2 id="license">MIT License</h2>
 The MIT License (MIT)
 
 Copyright (c) <year> Adam Veldhousen
