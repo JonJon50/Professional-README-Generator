@@ -20,7 +20,7 @@ README is really important when it comes to being a part of any coding job and i
 My project will allow the user to answer a series of specific questions and create a professional complete README based on their responses. This will help make it look professional and correct without the end user knowing what is under the hood. 
 
 
-## Usage 
+## Usage  
 Click here to view video demonstration --> [Professional README Generator](https://drive.google.com/file/d/1TmM82sxv8Lx4D0sMvx9_O2VCtTFEc_h8/view?usp=sharing)
 1. Run the following code: ‘node index.js’ or npm start in the terminal. 
 2. Answer the questions and after completion, you should see a console log showing your answers to your prompts. 
